@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:is-it-prime.xcodeproj">
+      location = "self:/Users/biamacedo/Desktop/Xcode/is-it-prime/Finding Primes.xcodeproj">
    </FileRef>
 </Workspace>

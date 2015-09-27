@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		150BCFC11BB8579100A01CCE /* is-it-prime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "is-it-prime.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		150BCFC11BB8579100A01CCE /* Finding Primes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Finding Primes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		150BCFC41BB8579100A01CCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		150BCFC61BB8579100A01CCE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		150BCFC91BB8579100A01CCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		150BCFC21BB8579100A01CCE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				150BCFC11BB8579100A01CCE /* is-it-prime.app */,
+				150BCFC11BB8579100A01CCE /* Finding Primes.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		150BCFC01BB8579100A01CCE /* is-it-prime */ = {
+		150BCFC01BB8579100A01CCE /* Finding Primes */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 150BCFD31BB8579100A01CCE /* Build configuration list for PBXNativeTarget "is-it-prime" */;
+			buildConfigurationList = 150BCFD31BB8579100A01CCE /* Build configuration list for PBXNativeTarget "Finding Primes" */;
 			buildPhases = (
 				150BCFBD1BB8579100A01CCE /* Sources */,
 				150BCFBE1BB8579100A01CCE /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "is-it-prime";
+			name = "Finding Primes";
 			productName = "is-it-prime";
-			productReference = 150BCFC11BB8579100A01CCE /* is-it-prime.app */;
+			productReference = 150BCFC11BB8579100A01CCE /* Finding Primes.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 150BCFBC1BB8579100A01CCE /* Build configuration list for PBXProject "is-it-prime" */;
+			buildConfigurationList = 150BCFBC1BB8579100A01CCE /* Build configuration list for PBXProject "Finding Primes" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				150BCFC01BB8579100A01CCE /* is-it-prime */,
+				150BCFC01BB8579100A01CCE /* Finding Primes */,
 			);
 		};
 /* End PBXProject section */
@@ -249,7 +249,7 @@
 				INFOPLIST_FILE = "is-it-prime/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.macedo.is-it-prime";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Finding Primes";
 			};
 			name = Debug;
 		};
@@ -260,14 +260,14 @@
 				INFOPLIST_FILE = "is-it-prime/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.macedo.is-it-prime";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Finding Primes";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		150BCFBC1BB8579100A01CCE /* Build configuration list for PBXProject "is-it-prime" */ = {
+		150BCFBC1BB8579100A01CCE /* Build configuration list for PBXProject "Finding Primes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				150BCFD11BB8579100A01CCE /* Debug */,
@@ -276,7 +276,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		150BCFD31BB8579100A01CCE /* Build configuration list for PBXNativeTarget "is-it-prime" */ = {
+		150BCFD31BB8579100A01CCE /* Build configuration list for PBXNativeTarget "Finding Primes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				150BCFD41BB8579100A01CCE /* Debug */,
